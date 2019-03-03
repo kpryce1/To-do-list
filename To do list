@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>To Do List</h1>
+
+<?php
+echo "do homework
+eat
+take a nap"
+?>
+</body>
+</html>
